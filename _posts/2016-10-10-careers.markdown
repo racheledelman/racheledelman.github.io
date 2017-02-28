@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Careers Site"
+category: other
+thumbnail: "/images/thumbs/careers.png"
+description: "Design for a responsive careers website."
+---
+
+Design for a careers microsite. This site has to list content, but also sell it. A large number of listings targeting a wide variety of job seekers necessitates multiple forms of navigation.
+
+In addition to searching by office and department, featured listings are highlighted. Bright graphics keep the page from being too text heavy. Profiles of employees bring a human touch.
+
+![Careers site screenshot](/images/other-careers1.png)
+
+Responsive design reaches the user wherever they are. The site was designed mobile first.
+
+![Desktop, tablet, and mobile version](/images/other-careers2.png)
