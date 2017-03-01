@@ -6,11 +6,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>About</title>
-  <meta name="description" content="I&#39;m a public interest designer based in San Francisco.">
+  <title>ReqCheck</title>
+  <meta name="description" content="ReqCheck is a lightweight a web app that interprets vaccine records.">
 
   <link rel="stylesheet" href="/assets/main.css">
-  <link rel="canonical" href="http://localhost:4000/about/">
+  <link rel="canonical" href="http://localhost:4000/fellowship/2016/10/11/reqcheck.html">
   <link rel="alternate" type="application/rss+xml" title="Rachel Edelman | Designer" href="/feed.xml">
   
   
@@ -58,30 +58,55 @@
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        <article class="post">
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title">About</h1>
+    <h1 class="post-title" itemprop="name headline">ReqCheck</h1>
   </header>
 
-  <div class="post-content">
-    <div class="headshot">
-	<img src="/images/headshot.jpg" alt="A photo of me." />
-	<small>Photo by <a href="http://www.mollymcleod.com">Molly McLeod</a></small>
-</div>
+  <div class="post-content" itemprop="articleBody">
+    <p>ReqCheck is a lightweight a web app that interprets vaccine records.</p>
 
-<p>I’m a product designer based in San Francisco.</p>
+<h2 id="research">Research</h2>
 
-<p>I have a BFA in graphic design from <a href="https://www.purchase.edu/">Purchase College, State University of New York</a>. I took classes in book binding and letterpress, and spent a lot of time on the internet, so that worked out. I’m interested in public interest design, civic technology, and usability.</p>
+<p><img src="/images/reqcheck-participatory-design.png" alt="Making a journey map with the nurses" />
+<small>Leading a participatory design exercise with front-line Health Department staff.</small></p>
 
-<p>You can find me on <a href="https://github.com/racheledelman">Github</a> and <a href="https://www.linkedin.com/in/rachel-edelman-aa530488/">LinkedIn</a>.</p>
+<p>I started with research. My team identified three major stakeholders: parents, health department employees, and the broader Kansas City health community.</p>
 
-<p>Download a PDF of my <a href="/images/rachel-edelman-resume.pdf">resume</a>.</p>
+<p><a href="/images/reqcheck-journey-map.png" class="inline-thumb">
+	<img src="/images/thumbs/reqcheck-map-thumb.png" />
+</a></p>
 
-<p><a href="mailto:edelman.rl@gmail.com">Email</a> me.</p>
+<p>I used a variety of techniques to learn about these groups: stakeholder interviews, shadowing, intercept interviews, and participatory design exercises. I wrote scripts, recruited participants, and conducted interviews. I then synthesized this research to present key insights to team members, funders, and other stakeholders.</p>
+
+<p>During this process, we identified multiple pain points and bottlenecks. We decided to focus on two issues where we knew we could have a significant impact. The first was that there was no way to triage families at intake, and the second was that vaccine records were difficult to read.</p>
+
+<h2 id="design">Design</h2>
+
+<p>Our solution was ReqCheck: a web app running an algorithm built on top of vaccine requirements from the Center for Disease Control. The app pulls data from the Health Department’s electronic health records, and determines if a patient is up to date on their vaccines. Registration staff can triage without consulting a nurse, and nurses can make decisions faster and more accurately. This  will significantly streamline the clinic’s work.</p>
+
+<blockquote>
+  <p>“I think it’s clean and organized. It’s not confusing, because everything’s right where it needs to be. It looks user friendly.” - Immunization Clinic nurse</p>
+</blockquote>
+
+<p><img src="/images/reqcheck-patient.png" alt="A screenshot of ReqCheck’s patient record screen" /></p>
+
+<h3 id="records">Records</h3>
+<p><img src="/images/reqcheck-old-records.png" alt="Previous design of vaccine records" />
+<small>The vaccine records the Health Department was using required the nurses to do unnecessary math.</small></p>
+
+<p>The app includes vaccines records for each patient. While nurses previously had access to this data, it was presented in a hard to read format and didn’t include all relevant data. The redesigned vaccine records are quicker and easier to interpret. This allows the nurses to work more efficiently, and reduces errors. The logically grouped entries allow the reader to quickly scan the chart and determine if a patient is up to date. Nurses previously had to count on their fingers to check date and time frames. Now those calculations are displayed right on the chart. The less time nurses spend doing math, the more time they have to counsel patients and provide care.</p>
+
+<p><img src="/images/reqcheck-new-records.png" alt="Redesigned digital records" /></p>
+
+<p>A printed version can also be shared parents, schools, and other medical providers. Vaccine records are complex documents, but non-specialists often need to reference them. This design helps them make sense of the data and easily see which vaccines a child has or has not received.</p>
+
+<p><img src="/images/reqcheck-new-records-printed.png" alt="Redesigned printed records" /></p>
 
   </div>
 
+  
 </article>
 
       </div>

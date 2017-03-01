@@ -15,6 +15,6 @@ I have a BFA in graphic design from [Purchase College, State University of New Y
 
 You can find me on [Github](https://github.com/racheledelman) and [LinkedIn](https://www.linkedin.com/in/rachel-edelman-aa530488/).
 
-Download a PDF of my [resume]().
+Download a PDF of my [resume](/images/rachel-edelman-resume.pdf).
 
 [Email](mailto:edelman.rl@gmail.com) me.
