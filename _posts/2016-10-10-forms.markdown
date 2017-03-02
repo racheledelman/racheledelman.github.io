@@ -3,7 +3,7 @@ layout: post
 title:  "Form Design"
 category: Fellowship
 thumbnail: "/images/thumbs/forms.png"
-description: "A comprehensive redesign of intake forms."
+description: "Comprehensive redesign of intake forms."
 ---
 
 ![Paperwork](/images/forms-paperwork.png)
@@ -33,4 +33,4 @@ I completed a total redesign of the four main intake forms, as well as creating 
 
 # Forms forever
 
-This project kicked off an enduring interest in form design. At its root, the purpose of design is to help people understand information. I usually approach this from a visual or interactive standpoint, but language is also a huge component. I love to transform complex ideas and bureaucratic language into simple, natural writing. Pairing this with beautiful, easy to use inputs can make a huge difference in how people interact with institutions. Forms!
+This project kicked off an [enduring interest]({% post_url 2016-10-09-DesignEducations %}) in form design. At its root, the purpose of design is to help people understand information. I usually approach this from a visual or interactive standpoint, but language is also a huge component. I love to transform complex ideas and bureaucratic language into simple, natural writing. Pairing this with beautiful, easy to use inputs can make a huge difference in how people interact with institutions. Forms!

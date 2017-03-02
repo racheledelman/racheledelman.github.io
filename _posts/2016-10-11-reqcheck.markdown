@@ -3,10 +3,10 @@ layout: post
 title:  "ReqCheck"
 category: Fellowship
 thumbnail: "/images/thumbs/reqcheck.png"
-description: "A lightweight a web app that interprets vaccine records."
+description: "A lightweight web app that interprets vaccine records."
 ---
 
-ReqCheck is a lightweight a web app that interprets vaccine records. 
+ReqCheck is a lightweight web app that interprets vaccine records. 
 
 ## Research
 
@@ -44,6 +44,6 @@ The app includes vaccines records for each patient. While nurses previously had 
 
 ![Redesigned digital records](/images/reqcheck-new-records.png) 
 
-A printed version can also be shared parents, schools, and other medical providers. Vaccine records are complex documents, but non-specialists often need to reference them. This design helps them make sense of the data and easily see which vaccines a child has or has not received.
+A printed version can also be shared with parents, schools, and other medical providers. Vaccine records are complex documents, but non-specialists often need to reference them. This design helps them make sense of the data and easily see which vaccines a child has or has not received.
 
 ![Redesigned printed records](/images/reqcheck-new-records-printed.png)
