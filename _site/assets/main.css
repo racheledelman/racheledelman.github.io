@@ -145,7 +145,7 @@ pre {
  * Site header
  */
 .site-header {
-  border-top: 5px solid #424242;
+  border-top: 5px solid #ffef0d;
   border-bottom: 1px solid #e8e8e8;
   min-height: 56px;
   position: relative; }
@@ -276,14 +276,16 @@ pre {
     margin-top: 2em;
     width: 350px;
     height: 350px;
-    border: 1px solid #828282;
+    border: 1px solid #e8e8e8;
+    -webkit-box-shadow: 2px 2px 0px 0px #e8e8e8;
+    -moz-box-shadow: 2px 2px 0px 0px #e8e8e8;
+    box-shadow: 2px 2px 0px 0px #e8e8e8;
     float: left;
     background: white; }
     .post-list > li:hover {
-      background: #fffa00; }
+      background: #ffef0d; }
     .post-list > li p {
-      color: #828282;
-      font: 16px; }
+      color: #111; }
 
 .post-list img {
   margin-top: -1.7em;
@@ -291,7 +293,7 @@ pre {
   margin-left: auto;
   display: block;
   width: 90%;
-  border: 1px solid #828282; }
+  border: 1px solid #e8e8e8; }
 
 .post-meta {
   font-size: 14px;

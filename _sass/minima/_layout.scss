@@ -2,7 +2,7 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid $grey-color-dark;
+  border-top: 5px solid $spot-color;
   border-bottom: 1px solid $grey-color-light;
   min-height: 56px;
 
@@ -184,13 +184,15 @@
     margin-top: 2em;
     width: 350px;
     height: 350px;
-    border: 1px solid $grey-color;
+    border: 1px solid $grey-color-light;
+    -webkit-box-shadow: 2px 2px 0px 0px $grey-color-light;
+    -moz-box-shadow: 2px 2px 0px 0px $grey-color-light;
+    box-shadow: 2px 2px 0px 0px $grey-color-light;
     float: left;
     background: white;
-    &:hover {background: #fffa00;}
+    &:hover {background: $spot-color;}
     p {
-      color: $grey-color; 
-      font: $base-font-size;
+      color: $text-color; 
     }
   }
 }
@@ -201,7 +203,7 @@
   margin-left: auto;
   display:block;
   width: 90%;
-  border: 1px solid $grey-color;;
+  border: 1px solid $grey-color-light;;
 }
 
 .post-meta {
