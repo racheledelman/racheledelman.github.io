@@ -10,7 +10,7 @@ layout: default
 
 
 <section>
-  <h2>Current Work</h2>
+  <h1>Current Work</h1>
 
   <p>I'm currently a product designer at <a href="https://www.codeforamerica.org/">Code for America</a>, a national nonprofit that makes government services simple, effective, and easy to use. I started as a design Fellow in 2016. The fellowship is a selective program that pairs teams experienced technologists with cities on a year long contract. I worked with the Kansas City, MO Health Department, where my team's mission was to improve access to childhood immunization. We were also tasked with introducing city employees to modern, agile software development practices and user-centered design.</p>
   <p>I worked alongside a developer and a project manager. As the sole designer on the team, I participated in all stages of the software development cycle. In addition to leading research, I created all design deliverables, including wireframes, user interface mockups, communications, and marketing materials. </p>
@@ -19,7 +19,7 @@ layout: default
     {% if post.url %}
     <li>
       <a class="post-link" href="{{ post.url | relative_url }}">
-        <img src="{{ post.thumbnail }}" />
+        <img src="{{ post.thumbnail }}"  alt="" />
         <div class="post-info">
           <h3>{{ post.title | escape }}</h3>
           <p>{{ post.description | escape }}</p>
@@ -37,7 +37,7 @@ layout: default
 <section>
   <p>I've stayed at CfA as a staff member since November. I'm doing similar work now, designing tools to help small business owners connect with government resources.</p>
 
-  <img src="/images/thumbs/small-biz-temp.png">
+  <img src="/images/thumbs/small-biz-temp.png" alt="Screenshot of some in-process work.">
   <!--     <ul class="post-list">
       {% for post in site.categories.SmallBiz %}
       {% if post.url %}
@@ -62,7 +62,7 @@ layout: default
         {% if post.url %}
         <li>
           <a class="post-link" href="{{ post.url | relative_url }}">
-            <img src="{{ post.thumbnail }}" />
+            <img src="{{ post.thumbnail }}" alt=""/>
             <div class="post-info">
               <h3>{{ post.title | escape }}</h3>
               <p>{{ post.description | escape }}</p>

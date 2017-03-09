@@ -10,7 +10,7 @@ I wrote and tested content for a text message outreach campaign. I also created 
 
 ## Outreach program
 
-![Conducting usability testing of text messages](/images/outreach-sms-usability.png)
+![](/images/outreach-sms-usability.png)
 <small>Paper prototypes for content testing with users.</small>
 
 For busy parents who don’t have a primary care provider, keeping on top of immunizations can be hard. We wanted to meet people where they were, using technology they were comfortable with. We decided to implement an outreach campaign to send text message reminders and alerts. 
@@ -29,4 +29,4 @@ To conduct our text message campaigns, we used two off the shelf products, Twili
 
 I put together a website, and with my team, wrote an extensive tutorial. The website includes instructions on implementation, as well as advice on best practices. We hope it will be a resource not only for the Kansas City Health Department, but also other public health organizations.
 
-![Text Messaging for Public Health tutorial screenshot](/images/outreach-sms-tutorial.png)
+![Homepage of Text Messaging for Public Health tutorial](/images/outreach-sms-tutorial.png)

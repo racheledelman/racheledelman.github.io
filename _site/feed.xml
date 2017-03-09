@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-03-03T00:19:25-08:00</updated><id>//</id><title type="html">Rachel Edelman | Designer</title><subtitle>I'm a public interest designer based in San Francisco. 
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-03-09T11:16:20-08:00</updated><id>//</id><title type="html">Rachel Edelman | Designer</title><subtitle>I'm a public interest designer based in San Francisco. 
 </subtitle><entry><title type="html">ReqCheck</title><link href="/fellowship/2016/10/11/reqcheck.html" rel="alternate" type="text/html" title="ReqCheck" /><published>2016-10-11T00:00:00-07:00</published><updated>2016-10-11T00:00:00-07:00</updated><id>/fellowship/2016/10/11/reqcheck</id><content type="html" xml:base="/fellowship/2016/10/11/reqcheck.html">&lt;p&gt;ReqCheck is a lightweight web app that interprets vaccine records.&lt;/p&gt;
 
 &lt;h2 id=&quot;research&quot;&gt;Research&lt;/h2&gt;
@@ -9,7 +9,7 @@
 &lt;p&gt;I started with research. My team identified three major stakeholders: parents, health department employees, and the broader Kansas City health community.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/images/reqcheck-journey-map.png&quot; class=&quot;inline-thumb&quot;&gt;
-	&lt;img src=&quot;/images/thumbs/reqcheck-map-thumb.png&quot; /&gt;
+	&lt;img src=&quot;/images/thumbs/reqcheck-map-thumb.png&quot; alt=&quot;KCMO Health Department Childhood Immunization Process chart showing painpoints and bottlenecks.&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;I used a variety of techniques to learn about these groups: stakeholder interviews, shadowing, intercept interviews, and participatory design exercises. I wrote scripts, recruited participants, and conducted interviews. I then synthesized this research to present key insights to team members, funders, and other stakeholders.&lt;/p&gt;
@@ -24,21 +24,21 @@
   &lt;p&gt;“I think it’s clean and organized. It’s not confusing, because everything’s right where it needs to be. It looks user friendly.” - Immunization Clinic nurse&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/reqcheck-patient.png&quot; alt=&quot;A screenshot of ReqCheck’s patient record screen&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/reqcheck-patient.png&quot; alt=&quot;ReqCheck’s patient record screen.&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;records&quot;&gt;Records&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;/images/reqcheck-old-records.png&quot; alt=&quot;Previous design of vaccine records&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;/images/reqcheck-old-records.png&quot; alt=&quot;The original vaccine record design&quot; /&gt;
 &lt;small&gt;The vaccine records the Health Department was using required the nurses to do unnecessary math.&lt;/small&gt;&lt;/p&gt;
 
 &lt;p&gt;The app includes vaccines records for each patient. Previously, they were presented in a hard to read format and didn’t include all relevant data. The redesigned vaccine records are quicker and easier to interpret. Nurses can work more efficiently, with fewer errors. Grouping entries logically allows the reader to quickly scan the chart and determine if a patient is up to date. Nurses previously had to count on their fingers to check date and time frames. Now those calculations are displayed right on the record. The less time nurses spend doing math, the more time they have to counsel patients and provide care.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/reqcheck-new-records.png&quot; alt=&quot;Redesigned digital records&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/reqcheck-new-records.png&quot; alt=&quot;ReqCheck's edesigned digital records.&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Immunizations don’t just keep kids healthy. They’re also a requirement for enrolling in school. A printed version can also be shared with parents, schools, and other medical providers. Vaccine records are complex documents, but non-specialists often need to interpret them. The new designs let everyone make sense of the data they need to help keep kids healthy and in school.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/reqcheck-new-records-printed.png&quot; alt=&quot;Redesigned printed records&quot; /&gt;&lt;/p&gt;</content><category term="Fellowship" /><summary type="html">ReqCheck is a lightweight web app that interprets vaccine records.</summary></entry><entry><title type="html">Graphic Design</title><link href="/other/2016/10/10/graphic-design.html" rel="alternate" type="text/html" title="Graphic Design" /><published>2016-10-10T00:00:00-07:00</published><updated>2016-10-10T00:00:00-07:00</updated><id>/other/2016/10/10/graphic-design</id><content type="html" xml:base="/other/2016/10/10/graphic-design.html">&lt;p&gt;As a freelance graphic designer I have created posters, logos, and invitations for a variety of clients. I work with organizations and individuals to solve visual problems.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/reqcheck-new-records-printed.png&quot; alt=&quot;ReqCheck's redesigned printed records.&quot; /&gt;&lt;/p&gt;</content><category term="Fellowship" /><summary type="html">ReqCheck is a lightweight web app that interprets vaccine records.</summary></entry><entry><title type="html">Graphic Design</title><link href="/other/2016/10/10/graphic-design.html" rel="alternate" type="text/html" title="Graphic Design" /><published>2016-10-10T00:00:00-07:00</published><updated>2016-10-10T00:00:00-07:00</updated><id>/other/2016/10/10/graphic-design</id><content type="html" xml:base="/other/2016/10/10/graphic-design.html">&lt;p&gt;As a freelance graphic designer I have created posters, logos, and invitations for a variety of clients. I work with organizations and individuals to solve visual problems.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/other-graphic-design.png&quot; alt=&quot;Graphic design examples&quot; /&gt;&lt;/p&gt;</content><category term="other" /><summary type="html">As a freelance graphic designer I have created posters, logos, and invitations for a variety of clients. I work with organizations and individuals to solve visual problems.</summary></entry><entry><title type="html">Form Design</title><link href="/fellowship/2016/10/10/forms.html" rel="alternate" type="text/html" title="Form Design" /><published>2016-10-10T00:00:00-07:00</published><updated>2016-10-10T00:00:00-07:00</updated><id>/fellowship/2016/10/10/forms</id><content type="html" xml:base="/fellowship/2016/10/10/forms.html">&lt;p&gt;&lt;img src=&quot;/images/forms-paperwork.png&quot; alt=&quot;Paperwork&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/other-graphic-design.png&quot; alt=&quot;Examples of my graphic design work&quot; /&gt;&lt;/p&gt;</content><category term="other" /><summary type="html">As a freelance graphic designer I have created posters, logos, and invitations for a variety of clients. I work with organizations and individuals to solve visual problems.</summary></entry><entry><title type="html">Form Design</title><link href="/fellowship/2016/10/10/forms.html" rel="alternate" type="text/html" title="Form Design" /><published>2016-10-10T00:00:00-07:00</published><updated>2016-10-10T00:00:00-07:00</updated><id>/fellowship/2016/10/10/forms</id><content type="html" xml:base="/fellowship/2016/10/10/forms.html">&lt;p&gt;&lt;img src=&quot;/images/forms-paperwork.png&quot; alt=&quot;Nurse with piles of paperwork&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;form-redesign&quot;&gt;Form Redesign&lt;/h1&gt;
 
@@ -46,17 +46,17 @@
 
 &lt;p&gt;I started with an audit of the current paperwork. The system in place involved forms created by different entities, leading to a fragmented experience. I found lots of repetition. Patients were being asked the same questions over and over again. There was also conflicting information, and a different visual style from form to form.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/forms-question-audit.png&quot; alt=&quot;Question audit&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;/images/forms-question-audit.png&quot; alt=&quot;&quot; /&gt;
 &lt;small&gt;I collected the intake forms and tallied how many times each question was asked.&lt;/small&gt;&lt;/p&gt;
 
 &lt;p&gt;I used this data, as well as information gathered through observing and interviewing staff and clients.&lt;/p&gt;
 
 &lt;p&gt;I completed a total redesign of the four main intake forms, as well as creating a new form for the &lt;a href=&quot;/fellowship/2016/10/10/client-outreach.html&quot;&gt;text message outreach program&lt;/a&gt;. The new forms feature condensed questions and simplified language. I also created a consistent, easy to read visual design system.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/forms-paper-forms.png&quot; alt=&quot;Paper forms&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;/images/forms-paper-forms.png&quot; alt=&quot;&quot; /&gt;
 &lt;small&gt;Designs for paper forms&lt;/small&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/forms-online-forms.png&quot; alt=&quot;Online forms&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;/images/forms-online-forms.png&quot; alt=&quot;&quot; /&gt;
 &lt;small&gt;Mockups for online intake forms&lt;/small&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;forms-forever&quot;&gt;Forms forever&lt;/h1&gt;
@@ -65,7 +65,7 @@
 
 &lt;p&gt;Explorations for a complex, information dense interface. View an &lt;a href=&quot;http://racheledelman.github.io/buzzfeed-demos/demo-01/&quot;&gt;HTML&lt;/a&gt; prototype I built.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/other-cms-tracker.png&quot; alt=&quot;Content tracking tool interface&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/other-cms-tracker.png&quot; alt=&quot;Iterations on article metadata interface&quot; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -80,7 +80,7 @@
 
 &lt;h2 id=&quot;outreach-program&quot;&gt;Outreach program&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/outreach-sms-usability.png&quot; alt=&quot;Conducting usability testing of text messages&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;/images/outreach-sms-usability.png&quot; alt=&quot;&quot; /&gt;
 &lt;small&gt;Paper prototypes for content testing with users.&lt;/small&gt;&lt;/p&gt;
 
 &lt;p&gt;For busy parents who don’t have a primary care provider, keeping on top of immunizations can be hard. We wanted to meet people where they were, using technology they were comfortable with. We decided to implement an outreach campaign to send text message reminders and alerts.&lt;/p&gt;
@@ -101,25 +101,25 @@
 
 &lt;p&gt;I put together a website, and with my team, wrote an extensive tutorial. The website includes instructions on implementation, as well as advice on best practices. We hope it will be a resource not only for the Kansas City Health Department, but also other public health organizations.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/outreach-sms-tutorial.png&quot; alt=&quot;Text Messaging for Public Health tutorial screenshot&quot; /&gt;&lt;/p&gt;</content><category term="Fellowship" /><summary type="html">I wrote and tested content for a text message outreach campaign. I also created resources to train staff to run it.</summary></entry><entry><title type="html">Careers Site</title><link href="/other/2016/10/10/careers.html" rel="alternate" type="text/html" title="Careers Site" /><published>2016-10-10T00:00:00-07:00</published><updated>2016-10-10T00:00:00-07:00</updated><id>/other/2016/10/10/careers</id><content type="html" xml:base="/other/2016/10/10/careers.html">&lt;p&gt;Design for a careers microsite. This site has to list content, but also sell it. A large number of listings targeting a wide variety of job seekers necessitates multiple forms of navigation.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/outreach-sms-tutorial.png&quot; alt=&quot;Homepage of Text Messaging for Public Health tutorial&quot; /&gt;&lt;/p&gt;</content><category term="Fellowship" /><summary type="html">I wrote and tested content for a text message outreach campaign. I also created resources to train staff to run it.</summary></entry><entry><title type="html">Careers Site</title><link href="/other/2016/10/10/careers.html" rel="alternate" type="text/html" title="Careers Site" /><published>2016-10-10T00:00:00-07:00</published><updated>2016-10-10T00:00:00-07:00</updated><id>/other/2016/10/10/careers</id><content type="html" xml:base="/other/2016/10/10/careers.html">&lt;p&gt;Design for a careers microsite. This site has to list content, but also sell it. A large number of listings targeting a wide variety of job seekers necessitates multiple forms of navigation.&lt;/p&gt;
 
 &lt;p&gt;In addition to searching by office and department, featured listings are highlighted. Bright graphics keep the page from being too text heavy. Profiles of employees bring a human touch.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/other-careers1.png&quot; alt=&quot;Careers site screenshot&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/other-careers1.png&quot; alt=&quot;Desktop version of careers site&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Responsive design reaches the user wherever they are. The site was designed mobile first.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/other-careers2.png&quot; alt=&quot;Desktop, tablet, and mobile version&quot; /&gt;&lt;/p&gt;</content><category term="other" /><summary type="html">Design for a careers microsite. This site has to list content, but also sell it. A large number of listings targeting a wide variety of job seekers necessitates multiple forms of navigation.</summary></entry><entry><title type="html">Small Business Resource Matcher</title><link href="/smallbiz/2016/10/09/ResourceMatcher.html" rel="alternate" type="text/html" title="Small Business Resource Matcher" /><published>2016-10-09T00:00:00-07:00</published><updated>2016-10-09T00:00:00-07:00</updated><id>/smallbiz/2016/10/09/ResourceMatcher</id><content type="html" xml:base="/smallbiz/2016/10/09/ResourceMatcher.html"></content><category term="SmallBiz" /><summary type="html"></summary></entry><entry><title type="html">Design Education</title><link href="/fellowship/2016/10/09/DesignEducations.html" rel="alternate" type="text/html" title="Design Education" /><published>2016-10-09T00:00:00-07:00</published><updated>2016-10-09T00:00:00-07:00</updated><id>/fellowship/2016/10/09/DesignEducations</id><content type="html" xml:base="/fellowship/2016/10/09/DesignEducations.html">&lt;p&gt;I have had an number of exciting opportunities to run workshops, give talks, and develop educational materials. I enjoy introducing others to human centered design and helping them discover their creative potential.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/other-careers2.png&quot; alt=&quot;Desktop, tablet, and mobile version of site&quot; /&gt;&lt;/p&gt;</content><category term="other" /><summary type="html">Design for a careers microsite. This site has to list content, but also sell it. A large number of listings targeting a wide variety of job seekers necessitates multiple forms of navigation.</summary></entry><entry><title type="html">Small Business Resource Matcher</title><link href="/smallbiz/2016/10/09/ResourceMatcher.html" rel="alternate" type="text/html" title="Small Business Resource Matcher" /><published>2016-10-09T00:00:00-07:00</published><updated>2016-10-09T00:00:00-07:00</updated><id>/smallbiz/2016/10/09/ResourceMatcher</id><content type="html" xml:base="/smallbiz/2016/10/09/ResourceMatcher.html"></content><category term="SmallBiz" /><summary type="html"></summary></entry><entry><title type="html">Design Education</title><link href="/fellowship/2016/10/09/DesignEducations.html" rel="alternate" type="text/html" title="Design Education" /><published>2016-10-09T00:00:00-07:00</published><updated>2016-10-09T00:00:00-07:00</updated><id>/fellowship/2016/10/09/DesignEducations</id><content type="html" xml:base="/fellowship/2016/10/09/DesignEducations.html">&lt;p&gt;I have had an number of exciting opportunities to run workshops, give talks, and develop educational materials. I enjoy introducing others to human centered design and helping them discover their creative potential.&lt;/p&gt;
 
 &lt;h2 id=&quot;design-for-non-designers&quot;&gt;Design for Non-Designers&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/images/talks/DesignForNonDesigners.png&quot; alt=&quot;Sample slides&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/talks/DesignForNonDesigners.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This workshop is a one hour introduction to design basics, with a focus on user interface design. It covers principles and techniques and includes several hands on activities.&lt;/p&gt;
 
 &lt;p&gt;I have run it at the 2016 National Day of Civic Hacking, for the the User Experience graduate students at Missouri Western State University, and for City employees in San Diego.&lt;/p&gt;
 
 &lt;h2 id=&quot;form-design-for-government&quot;&gt;Form Design for Government&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/images/talks/FormDesign.png&quot; alt=&quot;Sample slides&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/talks/FormDesign.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I prepared this talk for Data Academy, Kansas City’s internal data bootcamp for government employees. It was informed by my &lt;a href=&quot;/fellowship/2016/10/10/forms.html&quot;&gt;intake form redesign project&lt;/a&gt;.&lt;/p&gt;
 
@@ -128,7 +128,7 @@
 &lt;/blockquote&gt;
 
 &lt;h2 id=&quot;designing-a-government-system-in-a-day&quot;&gt;Designing a Government System in a Day&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/images/talks/DesignAGovSystem.png&quot; alt=&quot;Sample slides&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/talks/DesignAGovSystem.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Along with two other Fellows, I ran this breakout session at the 2016 Code for America Summit. We showed how design sprints can be used in civic technology, focusing on strategy, innovation, and prototyping.&lt;/p&gt;</content><category term="Fellowship" /><summary type="html">I have had an number of exciting opportunities to run workshops, give talks, and develop educational materials. I enjoy introducing others to human centered design and helping them discover their creative potential.</summary></entry><entry><title type="html">Syracuse Business Portal</title><link href="/smallbiz/2016/10/09/BusinessPortal.html" rel="alternate" type="text/html" title="Syracuse Business Portal" /><published>2016-10-09T00:00:00-07:00</published><updated>2016-10-09T00:00:00-07:00</updated><id>/smallbiz/2016/10/09/BusinessPortal</id><content type="html" xml:base="/smallbiz/2016/10/09/BusinessPortal.html">&lt;h1 id=&quot;homepage&quot;&gt;Homepage&lt;/h1&gt;
 

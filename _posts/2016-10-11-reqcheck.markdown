@@ -18,7 +18,7 @@ ReqCheck is a lightweight web app that interprets vaccine records.
 I started with research. My team identified three major stakeholders: parents, health department employees, and the broader Kansas City health community.
 
 <a href="/images/reqcheck-journey-map.png" class="inline-thumb">
-	<img src="/images/thumbs/reqcheck-map-thumb.png">
+	<img src="/images/thumbs/reqcheck-map-thumb.png" alt="KCMO Health Department Childhood Immunization Process chart showing painpoints and bottlenecks.">
 </a>
 
 I used a variety of techniques to learn about these groups: stakeholder interviews, shadowing, intercept interviews, and participatory design exercises. I wrote scripts, recruited participants, and conducted interviews. I then synthesized this research to present key insights to team members, funders, and other stakeholders.
@@ -33,17 +33,17 @@ Our solution was ReqCheck: a web app running an algorithm built on top of vaccin
 >“I think it’s clean and organized. It’s not confusing, because everything’s right where it needs to be. It looks user friendly.” - Immunization Clinic nurse
 
 
-![A screenshot of ReqCheck’s patient record screen](/images/reqcheck-patient.png) 
+![ReqCheck’s patient record screen.](/images/reqcheck-patient.png) 
 
 ### Records
-![Previous design of vaccine records](/images/reqcheck-old-records.png)
+![The original vaccine record design](/images/reqcheck-old-records.png)
 <small>The vaccine records the Health Department was using required the nurses to do unnecessary math.</small>
 
 
 The app includes vaccines records for each patient. Previously, they were presented in a hard to read format and didn't include all relevant data. The redesigned vaccine records are quicker and easier to interpret. Nurses can work more efficiently, with fewer errors. Grouping entries logically allows the reader to quickly scan the chart and determine if a patient is up to date. Nurses previously had to count on their fingers to check date and time frames. Now those calculations are displayed right on the record. The less time nurses spend doing math, the more time they have to counsel patients and provide care. 
 
-![Redesigned digital records](/images/reqcheck-new-records.png) 
+![ReqCheck's edesigned digital records.](/images/reqcheck-new-records.png) 
 
 Immunizations don't just keep kids healthy. They're also a requirement for enrolling in school. A printed version can also be shared with parents, schools, and other medical providers. Vaccine records are complex documents, but non-specialists often need to interpret them. The new designs let everyone make sense of the data they need to help keep kids healthy and in school.
 
-![Redesigned printed records](/images/reqcheck-new-records-printed.png)
+![ReqCheck's redesigned printed records.](/images/reqcheck-new-records-printed.png)

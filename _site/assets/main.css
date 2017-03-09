@@ -66,10 +66,10 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #2a7ae2;
+  color: #192de2;
   text-decoration: none; }
   a:visited {
-    color: #1756a9; }
+    color: #111f9d; }
   a:hover {
     color: #111;
     /*text-decoration: underline;*/ }
@@ -369,6 +369,9 @@ small {
   padding-right: 30px;
   padding-bottom: 30px;
   width: 300px; }
+
+p a {
+  font-weight: bold; }
 
 /**
  * Syntax highlighting styles

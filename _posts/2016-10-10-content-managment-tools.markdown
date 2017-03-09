@@ -10,7 +10,7 @@ description: "Designs and prototypes for content management tools."
 
 Explorations for a complex, information dense interface. View an [HTML](http://racheledelman.github.io/buzzfeed-demos/demo-01/) prototype I built.
 
-![Content tracking tool interface](/images/other-cms-tracker.png)
+![Iterations on article metadata interface](/images/other-cms-tracker.png)
 
 ---
 
