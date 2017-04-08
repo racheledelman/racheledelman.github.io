@@ -72,7 +72,7 @@ a {
     color: #111f9d; }
   a:hover {
     color: #111;
-    /*text-decoration: underline;*/ }
+    text-decoration: underline; }
 
 /**
  * Blockquotes

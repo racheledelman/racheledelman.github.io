@@ -19,7 +19,7 @@ Design for an interface where moderators can view, edit, and promote user submit
 
 ![Moderation interface](/images/other-cms-moderation1.png)
 
-My process includes observation, documentation, iteration, and testing.
+My process includes observation, documentation, iteration, and usability testing.
 
 ![Process](/images/other-cms-moderation2.png)
 
