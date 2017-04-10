@@ -4,6 +4,7 @@ title:  "Design Education"
 category: Fellowship
 thumbnail: "/images/thumbs/design-education.png"
 description: "Workshops, talks, and other resources."
+faketag: Design education	
 ---
 
 I have had an number of exciting opportunities to run workshops, give talks, and develop educational materials. I enjoy introducing others to human centered design and helping them discover their creative potential.

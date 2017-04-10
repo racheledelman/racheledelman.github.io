@@ -4,6 +4,7 @@ title:  "Form Design"
 category: Fellowship
 thumbnail: "/images/thumbs/forms.png"
 description: "Comprehensive redesign of intake forms."
+faketag: Visual design, UX design	
 ---
 
 ![Nurse with piles of paperwork](/images/forms-paperwork.png)

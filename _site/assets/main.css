@@ -281,11 +281,14 @@ pre {
     -moz-box-shadow: 2px 2px 0px 0px #e8e8e8;
     box-shadow: 2px 2px 0px 0px #e8e8e8;
     float: left;
-    background: white; }
+    background: white;
+    position: relative; }
     .post-list > li:hover {
       background: #ffef0d; }
     .post-list > li p {
       color: #111; }
+    .post-list > li h3 {
+      margin-bottom: 7.5px; }
 
 .post-list img {
   margin-top: -1.7em;
@@ -301,7 +304,7 @@ pre {
 
 .post-link {
   display: block;
-  font-size: 24px; }
+  font-size: 22px; }
 
 .home section {
   margin-bottom: 60px; }
@@ -388,6 +391,25 @@ small {
 
 p a {
   font-weight: bold; }
+
+.post-tags {
+  border-top: 1px solid #e8e8e8;
+  font-size: 13.33333px;
+  color: #5e5e5e;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: .5em; }
+
+.hero {
+  border: 1px solid #e8e8e8;
+  border-top-color: #ffef0d;
+  font-size: 32px;
+  background: white;
+  padding: 30px; }
+  .hero p {
+    margin-bottom: 0; }
 
 /**
  * Syntax highlighting styles

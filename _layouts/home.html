@@ -9,6 +9,10 @@ layout: default
 {{ content }}
 
 
+<section class="hero">
+  <p>Designing beautiful, usable, dignified experiences.</p>
+</section>
+
 <section>
   <h1>Current Work</h1>
 
@@ -23,6 +27,7 @@ layout: default
         <div class="post-info">
           <h3>{{ post.title | escape }}</h3>
           <p>{{ post.description | escape }}</p>
+          <div class="post-tags">{{ post.faketag | escape }}</div>
         </div>
       </a>
     </li>
@@ -52,6 +57,7 @@ layout: default
           <div class="post-info">
             <h3>{{ post.title | escape }}</h3>
             <p>{{ post.description | escape }}</p>
+            <div class="post-tags">{{ post.faketag | escape }}</div>
           </div>
         </a>
         </li>
@@ -71,6 +77,7 @@ layout: default
             <div class="post-info">
               <h3>{{ post.title | escape }}</h3>
               <p>{{ post.description | escape }}</p>
+              <div class="post-tags">{{ post.faketag | escape }}</div>
             </div>
           </a>
         </li>

@@ -3,7 +3,8 @@ layout: post
 title:  "Text Message Outreach"
 category: Fellowship
 thumbnail: "/images/thumbs/sms.png"
-description: "A text message outreach campaign, and a tutorial for launching your own."
+description: "A text message outreach campaign, and a texting playbook."
+faketag: Service design, Usability testing, Writing
 ---
 
 I wrote and tested content for a text message outreach campaign. I also created resources to train staff to run it.
