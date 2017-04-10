@@ -16,7 +16,7 @@
   line-height: 56px;
   margin-bottom: 0;
   float: left;
-
+  font-family: $alt-font-family;
   &,
   &:visited {
     color: $grey-color-dark;
@@ -191,7 +191,10 @@
     float: left;
     background: white;
     position: relative;
-    &:hover {background: $spot-color;}
+    &:hover {
+      background: $spot-color;
+      text-decoration: none;
+    }
     p {
       color: $text-color; 
     }
@@ -218,6 +221,9 @@
 .post-link {
   display: block;
   font-size: 22px;
+  &:hover {
+    text-decoration:none;
+  }
 }
 
 .home section {
@@ -339,6 +345,7 @@ p a {
   font-size: $base-font-size*2;
   background: white;
   padding:$spacing-unit;
+  font-family: $alt-font-family;
   p {
     margin-bottom:0;
   }

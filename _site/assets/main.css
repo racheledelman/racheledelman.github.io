@@ -60,7 +60,8 @@ li > ol {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-  font-weight: 400; }
+  font-weight: 400;
+  font-family: "Crimson Text", serif; }
 
 /**
  * Links
@@ -155,7 +156,8 @@ pre {
   font-weight: 300;
   line-height: 56px;
   margin-bottom: 0;
-  float: left; }
+  float: left;
+  font-family: "Crimson Text", serif; }
   .site-title, .site-title:visited {
     color: #424242; }
 
@@ -284,7 +286,8 @@ pre {
     background: white;
     position: relative; }
     .post-list > li:hover {
-      background: #ffef0d; }
+      background: #ffef0d;
+      text-decoration: none; }
     .post-list > li p {
       color: #111; }
     .post-list > li h3 {
@@ -305,6 +308,8 @@ pre {
 .post-link {
   display: block;
   font-size: 22px; }
+  .post-link:hover {
+    text-decoration: none; }
 
 .home section {
   margin-bottom: 60px; }
@@ -407,7 +412,8 @@ p a {
   border-top-color: #ffef0d;
   font-size: 32px;
   background: white;
-  padding: 30px; }
+  padding: 30px;
+  font-family: "Crimson Text", serif; }
   .hero p {
     margin-bottom: 0; }
 
