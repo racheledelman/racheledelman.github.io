@@ -277,7 +277,7 @@ pre {
     margin-right: 18px;
     margin-top: 2em;
     width: 350px;
-    height: 350px;
+    height: 355px;
     border: 1px solid #e8e8e8;
     -webkit-box-shadow: 2px 2px 0px 0px #e8e8e8;
     -moz-box-shadow: 2px 2px 0px 0px #e8e8e8;
@@ -286,8 +286,7 @@ pre {
     background: white;
     position: relative; }
     .post-list > li:hover {
-      background: #ffef0d;
-      text-decoration: none; }
+      background: #ffef0d; }
     .post-list > li p {
       color: #111; }
     .post-list > li h3 {
@@ -307,7 +306,7 @@ pre {
 
 .post-link {
   display: block;
-  font-size: 22px; }
+  font-size: 24px; }
   .post-link:hover {
     text-decoration: none; }
 
@@ -375,19 +374,6 @@ small {
   font-style: italic;
   display: block; }
 
-.post-list a p:hover {
-  text-decoration: none; }
-
-.post-list p:hover {
-  text-decoration: none; }
-
-.post-list p a:hover {
-  text-decoration: none; }
-
-.yella {
-  background: #fffa00;
-  color: #fffa00; }
-
 .headshot {
   float: left;
   padding-right: 30px;
@@ -407,14 +393,15 @@ p a {
   right: 0;
   padding: .5em; }
 
-.hero {
+section.hero {
   border: 1px solid #e8e8e8;
   border-top-color: #ffef0d;
   font-size: 32px;
   background: white;
   padding: 30px;
+  margin-bottom: 15px;
   font-family: "Crimson Text", serif; }
-  .hero p {
+  section.hero p {
     margin-bottom: 0; }
 
 /**

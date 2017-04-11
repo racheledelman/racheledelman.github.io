@@ -183,7 +183,7 @@
     margin-right: 18px;
     margin-top: 2em;
     width: 350px;
-    height: 350px;
+    height: 355px;
     border: 1px solid $grey-color-light;
     -webkit-box-shadow: 2px 2px 0px 0px $grey-color-light;
     -moz-box-shadow: 2px 2px 0px 0px $grey-color-light;
@@ -193,7 +193,6 @@
     position: relative;
     &:hover {
       background: $spot-color;
-      text-decoration: none;
     }
     p {
       color: $text-color; 
@@ -220,7 +219,7 @@
 
 .post-link {
   display: block;
-  font-size: 22px;
+  font-size: $base-font-size*1.5;
   &:hover {
     text-decoration:none;
   }
@@ -308,15 +307,6 @@ small {
   display: block;
 }
 
-.post-list a p:hover {text-decoration: none;}
-.post-list p:hover {text-decoration: none;}
-.post-list p a:hover {text-decoration: none;}
-
-.yella {
-  background: #fffa00;
-  color: #fffa00;
-}
-
 .headshot {
   float: left;
   padding-right: $spacing-unit; 
@@ -339,12 +329,13 @@ p a {
   padding: .5em;
 }
 
-.hero {
+section.hero {
   border: 1px solid $grey-color-light;
   border-top-color: $spot-color;
   font-size: $base-font-size*2;
   background: white;
   padding:$spacing-unit;
+  margin-bottom:$spacing-unit/2;
   font-family: $alt-font-family;
   p {
     margin-bottom:0;
