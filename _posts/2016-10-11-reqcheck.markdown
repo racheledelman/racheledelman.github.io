@@ -4,7 +4,7 @@ title:  "ReqCheck"
 category: Fellowship
 thumbnail: "/images/thumbs/reqcheck.png"
 description: "A lightweight web app that interprets vaccine records."
-faketag: Visual design, UX design, Research	
+faketag: UX/UI design, Visual design, Research	
 ---
 
 ReqCheck is a lightweight web app that interprets vaccine records. 
