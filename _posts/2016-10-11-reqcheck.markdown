@@ -7,7 +7,7 @@ description: "A lightweight web app that interprets vaccine records."
 faketag: UX/UI design, Visual design, Research	
 ---
 
-ReqCheck is a lightweight web app that interprets vaccine records. 
+ReqCheck is a lightweight web app that interprets vaccine records. I completed this project while a Design Fellow at [Code for America](https://www.codeforamerica.org), a national nonprofit that makes government services simple, effective, and easy to use. The fellowship is a selective program that pairs teams experienced technologists with cities on a year long project. I worked with the Kansas City, MO Health Department, where my team's mission was to improve access to childhood immunization.
 
 ## Research
 
@@ -16,7 +16,7 @@ ReqCheck is a lightweight web app that interprets vaccine records.
 <small>Leading a participatory design exercise with front-line Health Department staff.</small>
 
 
-I started with research. My team identified three major stakeholders: parents, health department employees, and the broader Kansas City health community.
+I started with research. We identified three major stakeholders: parents, health department employees, and the broader Kansas City health community.
 
 <a href="/images/reqcheck-journey-map.png" class="inline-thumb">
 	<img src="/images/thumbs/reqcheck-map-thumb.png" alt="KCMO Health Department Childhood Immunization Process chart showing painpoints and bottlenecks.">

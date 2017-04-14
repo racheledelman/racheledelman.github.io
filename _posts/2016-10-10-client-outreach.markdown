@@ -7,7 +7,7 @@ description: "A text message outreach campaign, and a texting playbook."
 faketag: Service design, Usability testing, Content
 ---
 
-I wrote and tested content for a text message outreach campaign. I also created resources to train staff to run it.
+I wrote and tested content for a text message outreach campaign for the Kansas City, MO Health Department during my Code for America fellowship. I also created resources to train staff to run it.
 
 ## Outreach program
 
