@@ -9,21 +9,19 @@ body {
   border-top: 5px solid $spot-color;
   border-bottom: 1px solid $grey-color-light;
   min-height: 56px;
-  /*padding-top: $spacing-unit;*/
+  font-family: $alt-font-family;
+  font-size: $base-font-size*1.2;
   // Positioning context for the mobile navigation icon
   position: relative;
 }
 
 .site-title {
-  font-size: 26px;
-  font-weight: 300;
   line-height: 56px;
   margin-bottom: 0;
   float: left;
-  font-family: $alt-font-family;
   &,
   &:visited {
-    color: $grey-color-dark;
+    color: $text-color;
   }
 }
 
@@ -176,7 +174,6 @@ body {
 
 .post-list {
   margin-left: 0;
-  margin-top:1em;
   float:left;
   list-style: none;
   display: flex;
@@ -184,6 +181,7 @@ body {
   justify-content: space-between;
   .post-info {
     padding: $spacing-unit/2;
+    font-size: $base-font-size*1.2;
   }
   > li {
     margin-bottom: $spacing-unit;
@@ -209,26 +207,18 @@ body {
 }
 
 .post-list img {
-  margin-top:-1.7em;
+  margin-top:-$spacing-unit;
   margin-left: $spacing-unit/2;
   display:block;
   width: 320px;
   border: 1px solid $grey-color-light;;
 }
 
-.post-meta {
-  font-size: $small-font-size;
-  color: $grey-color;
-}
-
 .post-link {
   display: block;
-  font-size: $base-font-size*1.5;
+  font-size: $base-font-size*1;
   &:hover {
     text-decoration:none;
-  }
-  h3 {
-    xfont-size: $base-font-size*2;
   }
 }
 
@@ -327,8 +317,8 @@ p a {
 }
 
 .post-tags {
-  font-size: $base-font-size/1.2;
-  color: lighten($text-color, 30%);
+  font-size: $small-font-size;
+  color: $grey-color;
   position: absolute;
   bottom: 0;
   left: 0;
@@ -337,6 +327,9 @@ p a {
 }
 
 section.hero {
-  font-size: $base-font-size*4;
+  font-size: $base-font-size*3.5;
   font-family: $alt-font-family;
+    @include media-query($on-palm) {
+      font-size:$base-font-size*2;
+    }
 }
