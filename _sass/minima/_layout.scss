@@ -9,7 +9,7 @@ body {
   border-top: 5px solid $spot-color;
   border-bottom: 1px solid $grey-color-light;
   min-height: 56px;
-
+  /*padding-top: $spacing-unit;*/
   // Positioning context for the mobile navigation icon
   position: relative;
 }
@@ -183,7 +183,7 @@ body {
   flex-wrap: wrap;
   justify-content: space-between;
   .post-info {
-    padding: .5em;
+    padding: $spacing-unit/2;
   }
   > li {
     margin-bottom: $spacing-unit;
@@ -210,10 +210,9 @@ body {
 
 .post-list img {
   margin-top:-1.7em;
-  margin-right: auto;
-  margin-left: auto;
+  margin-left: $spacing-unit/2;
   display:block;
-  width: 90%;
+  width: 320px;
   border: 1px solid $grey-color-light;;
 }
 
@@ -328,25 +327,16 @@ p a {
 }
 
 .post-tags {
-  border-top: 1px solid $grey-color-light;
   font-size: $base-font-size/1.2;
   color: lighten($text-color, 30%);
   position: absolute;
   bottom: 0;
   left: 0;
   right: 0;
-  padding: .5em;
+  padding: $spacing-unit/2;
 }
 
 section.hero {
-  border: 1px solid $grey-color-light;
-  border-top-color: $spot-color;
-  font-size: $base-font-size*2;
-  background: white;
-  padding:$spacing-unit;
-  margin-bottom:$spacing-unit/2;
+  font-size: $base-font-size*4;
   font-family: $alt-font-family;
-  p {
-    margin-bottom:0;
-  }
 }
