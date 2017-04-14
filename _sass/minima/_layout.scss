@@ -179,12 +179,14 @@ body {
   margin-top:1em;
   float:left;
   list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
   .post-info {
     padding: .5em;
   }
   > li {
     margin-bottom: $spacing-unit;
-    margin-right: 18px;
     margin-top: 2em;
     width: 350px;
     height: 355px;
@@ -192,7 +194,6 @@ body {
     -webkit-box-shadow: 2px 2px 0px 0px $grey-color-light;
     -moz-box-shadow: 2px 2px 0px 0px $grey-color-light;
     box-shadow: 2px 2px 0px 0px $grey-color-light;
-    float: left;
     background: white;
     position: relative;
     &:hover {

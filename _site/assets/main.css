@@ -272,12 +272,14 @@ body {
   margin-left: 0;
   margin-top: 1em;
   float: left;
-  list-style: none; }
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between; }
   .post-list .post-info {
     padding: .5em; }
   .post-list > li {
     margin-bottom: 30px;
-    margin-right: 18px;
     margin-top: 2em;
     width: 350px;
     height: 355px;
@@ -285,7 +287,6 @@ body {
     -webkit-box-shadow: 2px 2px 0px 0px #e8e8e8;
     -moz-box-shadow: 2px 2px 0px 0px #e8e8e8;
     box-shadow: 2px 2px 0px 0px #e8e8e8;
-    float: left;
     background: white;
     position: relative; }
     .post-list > li:hover {
