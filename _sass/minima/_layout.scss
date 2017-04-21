@@ -34,9 +34,7 @@ body {
   }
 
   .page-link {
-    color: $text-color;
     line-height: $base-line-height;
-
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
       margin-right: 20px;
@@ -195,13 +193,22 @@ body {
     background: white;
     position: relative;
     &:hover {
-      background: $spot-color;
+      /*background: $spot-color;*/
+      border: 1px solid $spot-color;
+      -webkit-box-shadow: 2px 2px 0px 0px $spot-color;
+      -moz-box-shadow: 2px 2px 0px 0px $spot-color;
+      box-shadow: 2px 2px 0px 0px $spot-color;
+      h3 {
+        /*color:green;*/
+        border-bottom: 2px solid $spot-color;
+      }
     }
     p {
       color: $text-color; 
     }
     h3 {
       margin-bottom: $spacing-unit / 4;
+      display: inline;
     }
   }
 }
@@ -318,7 +325,7 @@ p a {
 
 .post-tags {
   font-size: $small-font-size;
-  color: $grey-color;
+  color: $grey-color-dark;
   position: absolute;
   bottom: 0;
   left: 0;
