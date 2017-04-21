@@ -193,14 +193,13 @@ body {
     background: white;
     position: relative;
     &:hover {
-      /*background: $spot-color;*/
-      border: 1px solid $spot-color;
+      background: $spot-color;
+/*      border: 1px solid $spot-color;
       -webkit-box-shadow: 2px 2px 0px 0px $spot-color;
       -moz-box-shadow: 2px 2px 0px 0px $spot-color;
       box-shadow: 2px 2px 0px 0px $spot-color;
-      h3 {
-        /*color:green;*/
-        border-bottom: 2px solid $spot-color;
+*/      h3 {
+        /*border-bottom: 2px solid $spot-color;*/
       }
     }
     p {

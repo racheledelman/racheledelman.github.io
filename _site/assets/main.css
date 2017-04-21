@@ -288,14 +288,14 @@ body {
     background: white;
     position: relative; }
     .post-list > li:hover {
-      /*background: $spot-color;*/
-      border: 1px solid #ffef0d;
-      -webkit-box-shadow: 2px 2px 0px 0px #ffef0d;
-      -moz-box-shadow: 2px 2px 0px 0px #ffef0d;
-      box-shadow: 2px 2px 0px 0px #ffef0d; }
+      background: #ffef0d;
+      /*      border: 1px solid $spot-color;
+            -webkit-box-shadow: 2px 2px 0px 0px $spot-color;
+            -moz-box-shadow: 2px 2px 0px 0px $spot-color;
+            box-shadow: 2px 2px 0px 0px $spot-color;
+      */ }
       .post-list > li:hover h3 {
-        /*color:green;*/
-        border-bottom: 2px solid #ffef0d; }
+        /*border-bottom: 2px solid $spot-color;*/ }
     .post-list > li p {
       color: #111; }
     .post-list > li h3 {
