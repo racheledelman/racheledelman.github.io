@@ -29,6 +29,10 @@ During this process, we identified pain points and bottlenecks. We decided to fo
 
 ## Design
 
+![](/images/reqcheck-wireframes.png)
+<small>Early wireframes of the UI.</small>
+
+
 Our solution was ReqCheck: a web app running an algorithm built on top of vaccine requirements from the Centers for Disease Control. The app pulls data from the Health Department's electronic health records, and determines if a patient is up to date on their vaccines. With our app, registration staff can triage without consulting a nurse, and nurses can make decisions faster and more accurately. This significantly streamlines the clinic's work.
 
 >“I think it’s clean and organized. It’s not confusing, because everything’s right where it needs to be. It looks user friendly.” - Immunization Clinic nurse
