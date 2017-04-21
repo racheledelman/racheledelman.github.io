@@ -405,6 +405,10 @@ section.hero {
     section.hero {
       font-size: 36px; } }
 
+blockquote {
+  margin-top: 30px;
+  margin-bottom: 30px; }
+
 /**
  * Syntax highlighting styles
  */
