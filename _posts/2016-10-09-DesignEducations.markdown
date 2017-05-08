@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Design Education"
-category: Fellowship
+category: CodeforAmerica
 thumbnail: "/images/thumbs/design-education.png"
 description: "Workshops, talks, and other resources."
 faketag: Design education	

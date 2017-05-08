@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Text Message Outreach"
-category: Fellowship
+category: CodeforAmerica
 thumbnail: "/images/thumbs/sms.png"
 description: "A text message outreach campaign, and a texting playbook."
 faketag: Service design, Usability testing, Content

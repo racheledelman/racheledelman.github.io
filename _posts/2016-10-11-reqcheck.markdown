@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ReqCheck"
-category: Fellowship
+category: CodeforAmerica
 thumbnail: "/images/thumbs/reqcheck.png"
 description: "A lightweight web app that interprets vaccine records."
 faketag: UX/UI design, Visual design, Research	

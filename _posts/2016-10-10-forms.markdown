@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Form Design"
-category: Fellowship
+category: CodeforAmerica
 thumbnail: "/images/thumbs/forms.png"
 description: "Comprehensive redesign of intake forms."
 faketag: UX/UI design, Visual design 	
