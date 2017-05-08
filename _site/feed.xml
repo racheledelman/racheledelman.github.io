@@ -1,5 +1,51 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-05-08T14:27:52-07:00</updated><id>http://localhost:4000//</id><title type="html">Rachel Edelman</title><subtitle>I'm a public interest designer based in San Francisco. 
-</subtitle><entry><title type="html">ReqCheck</title><link href="http://localhost:4000/codeforamerica/2016/10/11/reqcheck.html" rel="alternate" type="text/html" title="ReqCheck" /><published>2016-10-11T00:00:00-07:00</published><updated>2016-10-11T00:00:00-07:00</updated><id>http://localhost:4000/codeforamerica/2016/10/11/reqcheck</id><content type="html" xml:base="http://localhost:4000/codeforamerica/2016/10/11/reqcheck.html">&lt;p&gt;ReqCheck is a lightweight web app that interprets vaccine records. I completed this project while a Design Fellow at &lt;a href=&quot;https://www.codeforamerica.org&quot;&gt;Code for America&lt;/a&gt;, a national nonprofit that makes government services simple, effective, and easy to use. The fellowship is a selective program that pairs teams experienced technologists with cities on a year long project. I worked with the Kansas City, MO Health Department, where my team’s mission was to improve access to childhood immunization.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-05-08T14:29:25-07:00</updated><id>http://localhost:4000//</id><title type="html">Rachel Edelman</title><subtitle>I'm a public interest designer based in San Francisco. 
+</subtitle><entry><title type="html">Syracuse Business Portal</title><link href="http://localhost:4000/codeforamerica/2016/10/12/BusinessPortal.html" rel="alternate" type="text/html" title="Syracuse Business Portal" /><published>2016-10-12T00:00:00-07:00</published><updated>2016-10-12T00:00:00-07:00</updated><id>http://localhost:4000/codeforamerica/2016/10/12/BusinessPortal</id><content type="html" xml:base="http://localhost:4000/codeforamerica/2016/10/12/BusinessPortal.html">&lt;p&gt;&lt;img src=&quot;/images/smallbiz-syr-homepage.png&quot; alt=&quot;Business Portal homepage&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;How can the city of Syracuse, New York best serve local business owners? With a small, but dedicated staff, the city’s Division of Business Development needed an online presence to compliment their in-person services.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“To grow our economy we don’t have the ability to talk to every single person with an idea. We felt it was important to make that if you have an idea, you have a place to go to start thinking about it.” - &lt;a href=&quot;http://wrvo.org/post/syracuse-web-portal-one-stop-shop-businesses&quot;&gt;Deputy Commissioner of Business Development&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;We built &lt;a href=&quot;https://business.syrgov.net/&quot;&gt;business.syrgov.net&lt;/a&gt;, a portal where local entrepreneurs can learn about starting a business, find city regulations, check the status of their permits, and more.&lt;/p&gt;
+
+&lt;p&gt;I was the product designer on this team, were I worked alongside a service designer, a product manager, and several engineers.&lt;/p&gt;
+
+&lt;h1 id=&quot;process&quot;&gt;Process&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/smallbiz-tracker-iterations.png&quot; alt=&quot;Variations on search prompt text.&quot; /&gt;
+&lt;small&gt;Microcopy iterations. Every detail of the site was designed with care, and I went through multiple iterations of each aspect of the site.&lt;/small&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;accessibility&quot;&gt;Accessibility&lt;/h2&gt;
+&lt;p&gt;A government website must serve all residents. I needed to meet users where they were, which includes a diverse range of abilities, devices, languages, and levels of digital literacy. I designed the layout mobile-first, so users would have an excellent experience whether they were on their phone or a desktop computer. I chose system fonts so the content would load quickly, even for users on poor connections.&lt;/p&gt;
+
+&lt;h2 id=&quot;visual-design&quot;&gt;Visual Design&lt;/h2&gt;
+&lt;p&gt;The visual identity is designed to be to modern and approachable, yet authoritative. Entrepreneurs should feel welcome on the site, and trust it to give them accurate, up to date information on regulations and requirements.&lt;/p&gt;
+
+&lt;h2 id=&quot;hierarchy-and-navigation&quot;&gt;Hierarchy and Navigation&lt;/h2&gt;
+
+&lt;p&gt;Our research uncovered that one of the biggest barriers facing new business owners is a lack of knowledge of the landscape. Specifically, they “don’t know what they don’t know”. It was important to give users a clear path to navigate the site, whether or not they knew exactly what they were looking for.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/smallbiz-syr-layout-iterations.png&quot; alt=&quot;&quot; /&gt;
+&lt;small&gt;Wireframes iterating on the homepage layout.&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;We built on Code for America’s &lt;a href=&quot;https://www.codeforamerica.org/government-partners/long-beach-ca&quot;&gt;2016 Fellowship in Long Beach&lt;/a&gt;, where they piloted the Plan, Open, Grow model. To this I added several forms of navigation, including bread crumbs and a table of contents for each section. This allows experienced users to jump to the exact topic they’re interested in, while also providing a clear path to new users.&lt;/p&gt;
+
+&lt;h2 id=&quot;human-touch&quot;&gt;Human Touch&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/images/smallbiz-syr-content.png&quot; alt=&quot;Screenshot of an interior page&quot; /&gt;
+&lt;small&gt;Screenshot of an interior page.&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;Our research showed that that users highly value the ability to interact directly with city staff. I broke up long blocks of content with easily clickable contact links.&lt;/p&gt;
+
+&lt;h1 id=&quot;application-tracker&quot;&gt;Application Tracker&lt;/h1&gt;
+
+&lt;p&gt;Previously, business owners needed to call the city to find out the status of their business license and  permit applications. Our application tracker pulls in data from the city’s permitting software, giving applicants access to quick, up to date statuses.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/smallbiz-tracker-mockups.png&quot; alt=&quot;Screenshot of different screens in the application tracker&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;My challenge was to present data so that users could easily find the information that was relevant to them. For logistical reason, we needed to let users look up applications with tracking number, without logging into an account. The applications contain many steps and sub-steps. A developer looking for information on why an inspection failed has different needs than a business owner who wants to know when their license expires.&lt;/p&gt;
+
+&lt;p&gt;I broke the data up into logical sections with clear headings and added icons and colors to help users scan and understand the information at a glance. I designed a summary section at the top with the overall application status and time sensitive information. For one step of the application, we were unable to get live data from the city’s permitting system. To help users understand what was happening in this step, I added a plain language explanation of the process. This compromise keeps users from feeling in dark as they wait for the outcome.&lt;/p&gt;</content><category term="CodeforAmerica" /><summary type="html"></summary></entry><entry><title type="html">ReqCheck</title><link href="http://localhost:4000/codeforamerica/2016/10/11/reqcheck.html" rel="alternate" type="text/html" title="ReqCheck" /><published>2016-10-11T00:00:00-07:00</published><updated>2016-10-11T00:00:00-07:00</updated><id>http://localhost:4000/codeforamerica/2016/10/11/reqcheck</id><content type="html" xml:base="http://localhost:4000/codeforamerica/2016/10/11/reqcheck.html">&lt;p&gt;ReqCheck is a lightweight web app that interprets vaccine records. I completed this project while a Design Fellow at &lt;a href=&quot;https://www.codeforamerica.org&quot;&gt;Code for America&lt;/a&gt;, a national nonprofit that makes government services simple, effective, and easy to use. The fellowship is a selective program that pairs teams experienced technologists with cities on a year long project. I worked with the Kansas City, MO Health Department, where my team’s mission was to improve access to childhood immunization.&lt;/p&gt;
 
 &lt;h2 id=&quot;research&quot;&gt;Research&lt;/h2&gt;
 
@@ -114,53 +160,7 @@
 
 &lt;p&gt;Responsive design reaches the user wherever they are. The site was designed mobile first. These wireframes show how the site responds to different viewports.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/other-careers2.png&quot; alt=&quot;Desktop, tablet, and mobile version of site&quot; /&gt;&lt;/p&gt;</content><category term="other" /><summary type="html">Design for a careers microsite. This site has two distinct goals. I needed to list content, but also sell it to visitors. The visual design gives the impression of an energetic, modern, and global business. I filled it with bright graphics keep the page from being too text heavy. Job listings are interspersed with information about benefits and company vision.</summary></entry><entry><title type="html">Syracuse Business Portal</title><link href="http://localhost:4000/codeforamerica/2016/10/10/BusinessPortal.html" rel="alternate" type="text/html" title="Syracuse Business Portal" /><published>2016-10-10T00:00:00-07:00</published><updated>2016-10-10T00:00:00-07:00</updated><id>http://localhost:4000/codeforamerica/2016/10/10/BusinessPortal</id><content type="html" xml:base="http://localhost:4000/codeforamerica/2016/10/10/BusinessPortal.html">&lt;p&gt;&lt;img src=&quot;/images/smallbiz-syr-homepage.png&quot; alt=&quot;Business Portal homepage&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;How can the city of Syracuse, New York best serve local business owners? With a small, but dedicated staff, the city’s Division of Business Development needed an online presence to compliment their in-person services.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“To grow our economy we don’t have the ability to talk to every single person with an idea. We felt it was important to make that if you have an idea, you have a place to go to start thinking about it.” - &lt;a href=&quot;http://wrvo.org/post/syracuse-web-portal-one-stop-shop-businesses&quot;&gt;Deputy Commissioner of Business Development&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;We built &lt;a href=&quot;https://business.syrgov.net/&quot;&gt;business.syrgov.net&lt;/a&gt;, a portal where local entrepreneurs can learn about starting a business, find city regulations, check the status of their permits, and more.&lt;/p&gt;
-
-&lt;p&gt;I was the product designer on this team, were I worked alongside a service designer, a product manager, and several engineers.&lt;/p&gt;
-
-&lt;h1 id=&quot;process&quot;&gt;Process&lt;/h1&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/smallbiz-tracker-iterations.png&quot; alt=&quot;Variations on search prompt text.&quot; /&gt;
-&lt;small&gt;Microcopy iterations. Every detail of the site was designed with care, and I went through multiple iterations of each aspect of the site.&lt;/small&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;accessibility&quot;&gt;Accessibility&lt;/h2&gt;
-&lt;p&gt;A government website must serve all residents. I needed to meet users where they were, which includes a diverse range of abilities, devices, languages, and levels of digital literacy. I designed the layout mobile-first, so users would have an excellent experience whether they were on their phone or a desktop computer. I chose system fonts so the content would load quickly, even for users on poor connections.&lt;/p&gt;
-
-&lt;h2 id=&quot;visual-design&quot;&gt;Visual Design&lt;/h2&gt;
-&lt;p&gt;The visual identity is designed to be to modern and approachable, yet authoritative. Entrepreneurs should feel welcome on the site, and trust it to give them accurate, up to date information on regulations and requirements.&lt;/p&gt;
-
-&lt;h2 id=&quot;hierarchy-and-navigation&quot;&gt;Hierarchy and Navigation&lt;/h2&gt;
-
-&lt;p&gt;Our research uncovered that one of the biggest barriers facing new business owners is a lack of knowledge of the landscape. Specifically, they “don’t know what they don’t know”. It was important to give users a clear path to navigate the site, whether or not they knew exactly what they were looking for.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/smallbiz-syr-layout-iterations.png&quot; alt=&quot;&quot; /&gt;
-&lt;small&gt;Wireframes iterating on the homepage layout.&lt;/small&gt;&lt;/p&gt;
-
-&lt;p&gt;We built on Code for America’s &lt;a href=&quot;https://www.codeforamerica.org/government-partners/long-beach-ca&quot;&gt;2016 Fellowship in Long Beach&lt;/a&gt;, where they piloted the Plan, Open, Grow model. To this I added several forms of navigation, including bread crumbs and a table of contents for each section. This allows experienced users to jump to the exact topic they’re interested in, while also providing a clear path to new users.&lt;/p&gt;
-
-&lt;h2 id=&quot;human-touch&quot;&gt;Human Touch&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/images/smallbiz-syr-content.png&quot; alt=&quot;Screenshot of an interior page&quot; /&gt;
-&lt;small&gt;Screenshot of an interior page.&lt;/small&gt;&lt;/p&gt;
-
-&lt;p&gt;Our research showed that that users highly value the ability to interact directly with city staff. I broke up long blocks of content with easily clickable contact links.&lt;/p&gt;
-
-&lt;h1 id=&quot;application-tracker&quot;&gt;Application Tracker&lt;/h1&gt;
-
-&lt;p&gt;Previously, business owners needed to call the city to find out the status of their business license and  permit applications. Our application tracker pulls in data from the city’s permitting software, giving applicants access to quick, up to date statuses.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/smallbiz-tracker-mockups.png&quot; alt=&quot;Screenshot of different screens in the application tracker&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;My challenge was to present data so that users could easily find the information that was relevant to them. For logistical reason, we needed to let users look up applications with tracking number, without logging into an account. The applications contain many steps and sub-steps. A developer looking for information on why an inspection failed has different needs than a business owner who wants to know when their license expires.&lt;/p&gt;
-
-&lt;p&gt;I broke the data up into logical sections with clear headings and added icons and colors to help users scan and understand the information at a glance. I designed a summary section at the top with the overall application status and time sensitive information. For one step of the application, we were unable to get live data from the city’s permitting system. To help users understand what was happening in this step, I added a plain language explanation of the process. This compromise keeps users from feeling in dark as they wait for the outcome.&lt;/p&gt;</content><category term="CodeforAmerica" /><summary type="html"></summary></entry><entry><title type="html">Small Business Resource Matcher</title><link href="http://localhost:4000/smallbiz/2016/10/09/ResourceMatcher.html" rel="alternate" type="text/html" title="Small Business Resource Matcher" /><published>2016-10-09T00:00:00-07:00</published><updated>2016-10-09T00:00:00-07:00</updated><id>http://localhost:4000/smallbiz/2016/10/09/ResourceMatcher</id><content type="html" xml:base="http://localhost:4000/smallbiz/2016/10/09/ResourceMatcher.html"></content><category term="SmallBiz" /><summary type="html"></summary></entry><entry><title type="html">Design Education</title><link href="http://localhost:4000/codeforamerica/2016/10/09/DesignEducations.html" rel="alternate" type="text/html" title="Design Education" /><published>2016-10-09T00:00:00-07:00</published><updated>2016-10-09T00:00:00-07:00</updated><id>http://localhost:4000/codeforamerica/2016/10/09/DesignEducations</id><content type="html" xml:base="http://localhost:4000/codeforamerica/2016/10/09/DesignEducations.html">&lt;p&gt;I have had an number of exciting opportunities to run workshops, give talks, and develop educational materials. I enjoy introducing people to human centered design and helping them discover their creative potential.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/other-careers2.png&quot; alt=&quot;Desktop, tablet, and mobile version of site&quot; /&gt;&lt;/p&gt;</content><category term="other" /><summary type="html">Design for a careers microsite. This site has two distinct goals. I needed to list content, but also sell it to visitors. The visual design gives the impression of an energetic, modern, and global business. I filled it with bright graphics keep the page from being too text heavy. Job listings are interspersed with information about benefits and company vision.</summary></entry><entry><title type="html">Small Business Resource Matcher</title><link href="http://localhost:4000/smallbiz/2016/10/09/ResourceMatcher.html" rel="alternate" type="text/html" title="Small Business Resource Matcher" /><published>2016-10-09T00:00:00-07:00</published><updated>2016-10-09T00:00:00-07:00</updated><id>http://localhost:4000/smallbiz/2016/10/09/ResourceMatcher</id><content type="html" xml:base="http://localhost:4000/smallbiz/2016/10/09/ResourceMatcher.html"></content><category term="SmallBiz" /><summary type="html"></summary></entry><entry><title type="html">Design Education</title><link href="http://localhost:4000/codeforamerica/2016/10/09/DesignEducations.html" rel="alternate" type="text/html" title="Design Education" /><published>2016-10-09T00:00:00-07:00</published><updated>2016-10-09T00:00:00-07:00</updated><id>http://localhost:4000/codeforamerica/2016/10/09/DesignEducations</id><content type="html" xml:base="http://localhost:4000/codeforamerica/2016/10/09/DesignEducations.html">&lt;p&gt;I have had an number of exciting opportunities to run workshops, give talks, and develop educational materials. I enjoy introducing people to human centered design and helping them discover their creative potential.&lt;/p&gt;
 
 &lt;h2 id=&quot;design-for-non-designers&quot;&gt;Design for Non-Designers&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&quot;/images/talks/DesignForNonDesigners.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
