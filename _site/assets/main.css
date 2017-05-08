@@ -300,7 +300,8 @@ body {
       color: #111; }
     .post-list > li h3 {
       margin-bottom: 7.5px;
-      display: inline; }
+      display: inline;
+      font-size: 27px; }
 
 .post-list img {
   margin-top: -30px;
