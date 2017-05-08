@@ -274,8 +274,7 @@ body {
   flex-wrap: wrap;
   justify-content: space-between; }
   .post-list .post-info {
-    padding: 15px;
-    font-size: 21.6px; }
+    padding: 15px; }
   .post-list > li {
     margin-bottom: 30px;
     margin-top: 2em;
