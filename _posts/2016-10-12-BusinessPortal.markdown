@@ -10,7 +10,7 @@ faketag: UX/UI design, Visual design
 ![Business Portal homepage](/images/smallbiz-syr-homepage.png)
 
 
-How can the city of Syracuse, New York best serve local business owners? With a small, but dedicated staff, the city's Division of Business Development needed an online presence to compliment their in-person services.
+How can the city of Syracuse, New York best serve local business owners? With a small, but dedicated staff, the city's Division of Business Development needed an online presence to complement their in-person services.
 
 >"To grow our economy we don't have the ability to talk to every single person with an idea. We felt it was important to make that if you have an idea, you have a place to go to start thinking about it.” - [Deputy Commissioner of Business Development](http://wrvo.org/post/syracuse-web-portal-one-stop-shop-businesses)
 
