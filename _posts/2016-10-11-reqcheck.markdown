@@ -3,7 +3,7 @@ layout: post
 title:  "ReqCheck"
 category: CodeforAmerica
 thumbnail: "/images/thumbs/reqcheck.png"
-description: "A lightweight web app that interprets vaccine records."
+description: "Leveraging design and data so non-specialists can interpret complex medical records."
 faketag: UX/UI design, Visual design, Research	
 ---
 

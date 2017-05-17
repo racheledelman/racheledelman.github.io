@@ -3,7 +3,7 @@ layout: post
 title:  "Form Design"
 category: CodeforAmerica
 thumbnail: "/images/thumbs/forms.png"
-description: "Comprehensive redesign of intake forms."
+description: "User-centered redesign of a health clinic's intake forms."
 faketag: UX/UI design, Visual design 	
 ---
 
