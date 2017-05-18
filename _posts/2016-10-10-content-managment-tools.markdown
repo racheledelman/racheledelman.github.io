@@ -5,6 +5,7 @@ category: other
 thumbnail: "/images/thumbs/cms.png"
 description: "Designs and prototypes for content management tools."
 faketag: UI design, Prototyping
+published: false
 ---
 
 ## Content Tracking Tool

@@ -5,6 +5,7 @@ category: other
 thumbnail: "/images/thumbs/careers.png"
 description: "Design for a responsive careers website."
 faketag: UI design, Visual design
+published: false
 ---
 
 Design for a careers microsite. This site has two distinct goals. I needed to list content, but also sell it to visitors. The visual design gives the impression of an energetic, modern, and global business. I filled it with bright graphics keep the page from being too text heavy. Job listings are interspersed with information about benefits and company vision.
