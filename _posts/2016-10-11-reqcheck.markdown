@@ -27,6 +27,13 @@ I used a variety of techniques to learn about these groups: stakeholder intervie
 
 During this process, we identified pain points and bottlenecks. We decided to focus on two issues where we knew we could have a significant impact. First, that there was no way to triage families at intake, and second that vaccine records were difficult to read.
 
+<div class="videoWrapperWrapper">
+<div class="videoWrapper">
+  <iframe width="725" height="451" src="https://www.youtube.com/embed/9uTkeJxBJao" frameborder="0" allowfullscreen></iframe>
+</div>
+<small>Watch my Code for America teammate <a href="https://twitter.com/jessunscripted">Jessica Cole</a> talk about this project on stage at the 2016 Code for America Summit!</small>
+</div>
+
 ## Design
 
 ![](/images/reqcheck-wireframes.png)

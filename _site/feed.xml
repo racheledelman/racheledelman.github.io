@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-05-18T14:27:52-07:00</updated><id>http://localhost:4000//</id><title type="html">Rachel Edelman</title><subtitle>I'm a public interest designer based in San Francisco. 
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-05-18T14:31:14-07:00</updated><id>http://localhost:4000//</id><title type="html">Rachel Edelman</title><subtitle>I'm a public interest designer based in San Francisco. 
 </subtitle><entry><title type="html">Syracuse Business Portal</title><link href="http://localhost:4000/codeforamerica/2016/10/12/BusinessPortal.html" rel="alternate" type="text/html" title="Syracuse Business Portal" /><published>2016-10-12T00:00:00-07:00</published><updated>2016-10-12T00:00:00-07:00</updated><id>http://localhost:4000/codeforamerica/2016/10/12/BusinessPortal</id><content type="html" xml:base="http://localhost:4000/codeforamerica/2016/10/12/BusinessPortal.html">&lt;p&gt;&lt;img src=&quot;/images/smallbiz-syr-homepage.png&quot; alt=&quot;Business Portal homepage&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;How can the city of Syracuse, New York best serve local business owners? With a small, but dedicated staff, the city’s Division of Business Development needed an online presence to complement their in-person services.&lt;/p&gt;
@@ -61,6 +61,13 @@
 &lt;p&gt;I used a variety of techniques to learn about these groups: stakeholder interviews, shadowing, intercept interviews, and participatory design exercises. I wrote scripts, recruited participants, and conducted interviews. I then synthesized this research to present key insights to team members, funders, and other stakeholders.&lt;/p&gt;
 
 &lt;p&gt;During this process, we identified pain points and bottlenecks. We decided to focus on two issues where we knew we could have a significant impact. First, that there was no way to triage families at intake, and second that vaccine records were difficult to read.&lt;/p&gt;
+
+&lt;div class=&quot;videoWrapperWrapper&quot;&gt;
+&lt;div class=&quot;videoWrapper&quot;&gt;
+  &lt;iframe width=&quot;725&quot; height=&quot;451&quot; src=&quot;https://www.youtube.com/embed/9uTkeJxBJao&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;small&gt;Watch my Code for America teammate &lt;a href=&quot;https://twitter.com/jessunscripted&quot;&gt;Jessica Cole&lt;/a&gt; talk about this project on stage at the 2016 Code for America Summit!&lt;/small&gt;
+&lt;/div&gt;
 
 &lt;h2 id=&quot;design&quot;&gt;Design&lt;/h2&gt;
 
