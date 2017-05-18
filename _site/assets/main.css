@@ -400,7 +400,7 @@ section.hero {
   font-family: "Crimson Text", serif; }
   @media screen and (max-width: 600px) {
     section.hero {
-      font-size: 36px; } }
+      font-size: 45px; } }
   section.hero p {
     line-height: 1.2; }
 
