@@ -16,7 +16,7 @@ layout: default
 <section>
 <!--   <h1>Current Work</h1>-->  
 <ul class="post-list">
-    {% for post in site.categories.CodeforAmerica %}
+    {% for post in site.posts %}
     {% if post.url %}
     <li>
       <a class="post-link" href="{{ post.url | relative_url }}">
@@ -40,46 +40,6 @@ layout: default
   </div>
 
 
-<!-- 
-  <p>I've stayed at CfA as a staff member since November. I'm doing similar work now, designing tools to help small business owners connect with government resources.</p>
-
-  <img src="/images/thumbs/small-biz-temp.png" alt="Screenshot of some in-process work.">
-      <ul class="post-list">
-      {% for post in site.categories.SmallBiz %}
-      {% if post.url %}
-        <li>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-          <img src="{{ post.thumbnail }}" />
-          <div class="post-info">
-            <h3>{{ post.title | escape }}</h3>
-            <p>{{ post.description | escape }}</p>
-            <div class="post-tags">{{ post.faketag | escape }}</div>
-          </div>
-        </a>
-        </li>
-      {% endif %}
-        {% endfor %}
-      </ul> 
-    -->
-
-
-<!--       <h2>Previous Work</h2> -->
-      <ul class="post-list">
-        {% for post in site.categories.other %}
-        {% if post.url %}
-        <li>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            <img src="{{ post.thumbnail }}" alt=""/>
-            <div class="post-info">
-              <h3>{{ post.title | escape }}</h3>
-              <p>{{ post.description | escape }}</p>
-              <div class="post-tags">{{ post.faketag | escape }}</div>
-            </div>
-          </a>
-        </li>
-        {% endif %}
-        {% endfor %}
-      </ul>
     </section>
 
   </div>

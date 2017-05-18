@@ -181,10 +181,10 @@ body {
     padding: $spacing-unit/2;
   }
   > li {
-    margin-bottom: $spacing-unit;
+    /*margin-bottom: $spacing-unit;*/
     margin-top: 2em;
     width: 350px;
-    height: 355px;
+    height: 390px;
     border: 1px solid $grey-color-light;
     -webkit-box-shadow: 2px 2px 0px 0px $grey-color-light;
     -moz-box-shadow: 2px 2px 0px 0px $grey-color-light;
@@ -213,11 +213,7 @@ body {
 }
 
 .post-list img {
-  margin-top:-$spacing-unit;
-  margin-left: $spacing-unit/2;
-  display:block;
-  width: 320px;
-  border: 1px solid $grey-color-light;;
+  border-bottom: 1px solid $grey-color-light;;
 }
 
 .post-link {
@@ -229,7 +225,7 @@ body {
 }
 
 .home section {
-  margin-bottom: $spacing-unit * 2;
+  margin-bottom: $spacing-unit * 1;
 }
 
 .videoWrapperWrapper{
@@ -325,7 +321,7 @@ p a {
 
 .post-tags {
   font-size: $small-font-size;
-  color: $grey-color-dark;
+  color: $grey-color;
   position: absolute;
   bottom: 0;
   left: 0;

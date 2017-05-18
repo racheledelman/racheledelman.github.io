@@ -276,10 +276,10 @@ body {
   .post-list .post-info {
     padding: 15px; }
   .post-list > li {
-    margin-bottom: 30px;
+    /*margin-bottom: $spacing-unit;*/
     margin-top: 2em;
     width: 350px;
-    height: 355px;
+    height: 390px;
     border: 1px solid #e8e8e8;
     -webkit-box-shadow: 2px 2px 0px 0px #e8e8e8;
     -moz-box-shadow: 2px 2px 0px 0px #e8e8e8;
@@ -303,11 +303,7 @@ body {
       font-size: 27px; }
 
 .post-list img {
-  margin-top: -30px;
-  margin-left: 15px;
-  display: block;
-  width: 320px;
-  border: 1px solid #e8e8e8; }
+  border-bottom: 1px solid #e8e8e8; }
 
 .post-link {
   display: block;
@@ -316,7 +312,7 @@ body {
     text-decoration: none; }
 
 .home section {
-  margin-bottom: 60px; }
+  margin-bottom: 30px; }
 
 .videoWrapperWrapper {
   display: inline-block;
@@ -392,7 +388,7 @@ p a {
 
 .post-tags {
   font-size: 15.75px;
-  color: #424242;
+  color: #828282;
   position: absolute;
   bottom: 0;
   left: 0;
