@@ -225,7 +225,7 @@ body {
 }
 
 .home section {
-  margin-bottom: $spacing-unit * 1;
+  display: inline-block;
 }
 
 .videoWrapperWrapper{
@@ -330,6 +330,7 @@ p a {
 }
 
 section.hero {
+  padding: $spacing-unit 0;
   font-size: $base-font-size*3.5;
   font-family: $alt-font-family;
     @include media-query($on-palm) {
@@ -337,6 +338,7 @@ section.hero {
     }
   p {
     line-height: 1.2;
+    margin-bottom: 0;
   }
 }
 
