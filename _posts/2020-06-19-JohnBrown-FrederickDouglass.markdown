@@ -7,9 +7,7 @@ description: "TK"
 faketag: TK
 ---
 
-# John Brown: An Address by Frederick Douglass
-
-_Speech delivered at Storer College, Harper's Ferry, West Virgina, May 30, 1881_
+# _Speech delivered at Storer College, Harper's Ferry, West Virgina, May 30, 1881_
 
 Not to fan the flame of sectional animosity now happily in the process of rapid and I hope permanent extinction, not to revive and keep alive a sense of shame and remorse for a great national crime, which has brought its own punishment, in loss of treasure, tears and blood, not to recount the long list of wrongs, inflicted on my race during more than two hundred years of merciless bondage; nor yet to draw, from the labyrinths of far-off centuries, incidents and achievements wherewith to rouse your passions, and enkindle your enthusiasm, but to pay a just debt long due, to vindicate in some degree a great historical character, of our own time and country, one with whom I was myself well acquainted, and whose friendship and confidence it was my good fortune to share, and to give you such recollections, impressions and facts, as I can, of a grand, brave and good old man, and especially to promote a better understanding of the raid upon Harper's Ferry of which he was the chief, is the object of this address.
 
